@@ -18,6 +18,11 @@ body {
     background-size: cover;
 }
 
+footer .btn {
+    display: block;
+    max-width: 140px;
+}
+
 @media (max-width: 760px) {
     .home-quote .display-4 {
         font-size: 2.5rem;
