@@ -39,3 +39,12 @@ footer .btn {
 .accordion a {
     text-decoration: none;
 }
+
+.plan-list li {
+    padding: 1rem;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+}
+
+.plan-list li:last-child {
+    border-bottom: none;
+}
